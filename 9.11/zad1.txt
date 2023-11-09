@@ -1,0 +1,3 @@
+Pętle umożliwiają powtórzenie pewnych instrukcji dopóki nie zostanie spełniony warunek kończący pętlę. 
+Dzięki temu możemy w bardzo łatwy i krótki sposób wypisać na przykład ten sam (lub podobny) komunikat kilka 
+lub kilkaset razy lub pobrać od użytkownika na przykład 100 zmiennych.
